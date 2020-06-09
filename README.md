@@ -9,7 +9,7 @@ The most fun part about this was figuring out how to restart incase certain requ
 # Installation 
 
 click on this link to see the cite:
-https://github.com/alreichard/Password-Generator
+https://alreichard.github.io/Password-Generator/
 
 
 # Usage
